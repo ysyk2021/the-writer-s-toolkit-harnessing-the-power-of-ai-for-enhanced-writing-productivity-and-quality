@@ -26,7 +26,7 @@ There are numerous machine learning-powered writing tools available to assist wr
 
 * Articoolo: A content creation tool that uses machine learning to generate unique articles based on keywords.
 * [Copy.ai](http://Copy.ai): An AI-powered tool that generates copy for ads, social media, and other marketing materials.
-* GPT-3: A powerful machine learning model developed by OpenAI that can generate high-quality text in a variety of styles and genres.
+* GPT-3.5: A powerful machine learning model developed by OpenAI that can generate high-quality text in a variety of styles and genres.
 
 Conclusion
 ----------
