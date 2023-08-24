@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Writing
-=================================================
 
 As AI technology becomes more integrated into the writing process, it is important to evaluate its impact on the craft of writing. This chapter will explore the tradeoffs of AI-enhanced writing and how writers can balance creative writing with AI assistance.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 In conclusion, when evaluating the impact of AI on writing, it is important for writers to consider the tradeoffs of AI-enhanced writing and strive to strike a balance between creative writing and AI assistance. By incorporating AI-powered writing tools into the writing process in a deliberate and strategic way, writers can achieve significant improvements in productivity and quality while still maintaining their unique voice and creativity.
-
 

@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Writing
-==============================================
 
 Integrating AI into writing workflows can significantly enhance writing productivity and quality. However, to get started with AI for writing, it is important to follow a strategic approach that involves identifying specific writing goals that can be accomplished with AI, selecting the right AI writing tools, and implementing those tools into workflows. This chapter will explore three key steps for getting started with AI for writing.
 

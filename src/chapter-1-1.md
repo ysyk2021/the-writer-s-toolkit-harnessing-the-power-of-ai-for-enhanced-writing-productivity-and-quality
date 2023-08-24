@@ -1,5 +1,3 @@
-The Role of AI in Writing Productivity and Quality
-===========================================================================
 
 Artificial intelligence (AI) technology is revolutionizing many industries, including writing. By harnessing the power of AI as a writing tool, writers can achieve significant improvements in productivity and quality. This chapter will explore the role of AI in writing productivity and quality.
 
