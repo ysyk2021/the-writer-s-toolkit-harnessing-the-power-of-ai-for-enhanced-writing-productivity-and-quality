@@ -10,3 +10,7 @@ The chapters that follow will delve deeper into specific topics related to AI-ba
 From experienced writers to beginners, this book is a must-read for anyone looking to harness the power of AI to enhance their writing productivity and quality.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
