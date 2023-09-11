@@ -1,5 +1,4 @@
-Chapter: Understanding the Tradeoffs of AI-Enhanced Writing
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the tradeoffs that come with utilizing AI for enhanced writing productivity and quality. While AI tools offer numerous benefits, it is essential to understand and consider the potential drawbacks and limitations associated with their usage.
 

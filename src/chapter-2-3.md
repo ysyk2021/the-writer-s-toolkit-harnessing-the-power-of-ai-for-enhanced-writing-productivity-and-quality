@@ -1,5 +1,4 @@
-Chapter: Sentiment Analysis for Emotional Writing Analysis
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of sentiment analysis and its application in analyzing emotional writing. We delve into the benefits and techniques of using AI-powered sentiment analysis tools to gain insights into the emotional impact of written content.
 

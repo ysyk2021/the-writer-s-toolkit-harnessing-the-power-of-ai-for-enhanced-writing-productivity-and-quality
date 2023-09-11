@@ -1,5 +1,4 @@
-Chapter: Balancing Creative Writing with AI Assistance
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of balancing creative writing with AI assistance in order to harness the power of artificial intelligence for enhanced productivity and quality. We delve into the benefits and considerations of using AI tools while preserving the essence of human creativity in the writing process.
 
